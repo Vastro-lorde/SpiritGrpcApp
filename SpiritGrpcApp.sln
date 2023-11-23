@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritGrpcServer", "SpiritGrpcServer\SpiritGrpcServer.csproj", "{A79A5FDB-4B6F-4262-B153-930703B4CCCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiritGrpcClient", "SpiritGrpcClient\SpiritGrpcClient.csproj", "{AEBD0B53-A5C3-44C0-BDA2-35371ADE45DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79A5FDB-4B6F-4262-B153-930703B4CCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79A5FDB-4B6F-4262-B153-930703B4CCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79A5FDB-4B6F-4262-B153-930703B4CCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79A5FDB-4B6F-4262-B153-930703B4CCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBD0B53-A5C3-44C0-BDA2-35371ADE45DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBD0B53-A5C3-44C0-BDA2-35371ADE45DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBD0B53-A5C3-44C0-BDA2-35371ADE45DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBD0B53-A5C3-44C0-BDA2-35371ADE45DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D48BE5-E6A3-4239-9FAB-01DD9A508388}
+	EndGlobalSection
+EndGlobal
